@@ -299,4 +299,8 @@
          format is UMTS|LTE|...
     -->
     <string translatable="false" name="config_radio_access_family">GPRS|EDGE|WCDMA</string>
+
+    <!-- Wether device has fingerprint support -->
+    <bool name="config_hasFingerprint">false</bool>
+
 </resources>
